@@ -1,0 +1,4 @@
+1GB - Execution Time: 14.79107141494751 seconds         0.3% CPU usage    0.5% MEM usage
+2GB - Execution Time: 14.271730661392212 seconds      	0.3% CPU usage    0.3% MEM usage
+4GB - Execution Time: 12.6978919506073 seconds		0.3% CPU usage    0.1% MEM usage
+8GB - Execution Time: 11.193727970123291 seconds	0.3% CPU usage    0.1% MEM usage
