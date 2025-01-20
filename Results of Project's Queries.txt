@@ -1,0 +1,724 @@
+The total records are 1048565
+
+Results for Query 1: Clan Type Percentages
+
+Clan Type: open, Count: 756099, Percentage: 72.1%
+Clan Type: inviteOnly, Count: 242398, Percentage: 23.1%
+Clan Type: closed, Count: 50068, Percentage: 4.8%
+
+Results for Query 2: Clan Location Percentages (Top 15 Countries)
+
+Clan Location: nan, Count: 426969, Percentage: 40.7%
+Clan Location: International, Count: 149358, Percentage: 14.2%
+Clan Location: Indonesia, Count: 70967, Percentage: 6.8%
+Clan Location: United States, Count: 43054, Percentage: 4.1%
+Clan Location: Philippines, Count: 30181, Percentage: 2.9%
+Clan Location: India, Count: 28319, Percentage: 2.7%
+Clan Location: France, Count: 24439, Percentage: 2.3%
+Clan Location: Brazil, Count: 23014, Percentage: 2.2%
+Clan Location: Türkiye, Count: 20560, Percentage: 2.0%
+Clan Location: Germany, Count: 16767, Percentage: 1.6%
+Clan Location: Italy, Count: 10740, Percentage: 1.0%
+Clan Location: Bangladesh, Count: 9319, Percentage: 0.9%
+Clan Location: Russia, Count: 9306, Percentage: 0.9%
+Clan Location: Iran, Count: 9272, Percentage: 0.9%
+Clan Location: Malaysia, Count: 7831, Percentage: 0.7%
+
+Results for Query 3: Family Friendly Percentages
+
+Family Friendly: False, Count: 716036, Percentage: 68.3%
+Family Friendly: True, Count: 332529, Percentage: 31.7%
+
+Results for Query 4: Clan Level Counts (Ascending)
+
+Clan Level: 1, Count: 721974
+Clan Level: 2, Count: 109327
+Clan Level: 3, Count: 56832
+Clan Level: 4, Count: 35843
+Clan Level: 5, Count: 24575
+Clan Level: 6, Count: 18305
+Clan Level: 7, Count: 13853
+Clan Level: 8, Count: 10933
+Clan Level: 9, Count: 9564
+Clan Level: 10, Count: 7516
+Clan Level: 11, Count: 5867
+Clan Level: 12, Count: 4721
+Clan Level: 13, Count: 3765
+Clan Level: 14, Count: 4328
+Clan Level: 15, Count: 3488
+Clan Level: 16, Count: 2791
+Clan Level: 17, Count: 2396
+Clan Level: 18, Count: 2055
+Clan Level: 19, Count: 2207
+Clan Level: 20, Count: 1728
+Clan Level: 21, Count: 1481
+Clan Level: 22, Count: 1366
+Clan Level: 23, Count: 1007
+Clan Level: 24, Count: 915
+Clan Level: 25, Count: 699
+Clan Level: 26, Count: 427
+Clan Level: 27, Count: 273
+Clan Level: 28, Count: 155
+Clan Level: 29, Count: 91
+Clan Level: 30, Count: 47
+Clan Level: 31, Count: 18
+Clan Level: 32, Count: 6
+Clan Level: 33, Count: 8
+Clan Level: 34, Count: 2
+Clan Level: 35, Count: 1
+Clan Level: 36, Count: 1
+
+Results for Query 4: Top Clan with Highest Level
+
+Top Clan with Highest Level: Esfahan, Level: 36
+
+Results for Query 5: Clan Points Range
+
+Clan Points Range: 0.0 - 3000.0, Count: 709458
+Clan Points Range: 3000.0 - 6000.0, Count: 65297
+Clan Points Range: 6000.0 - 9000.0, Count: 24545
+Clan Points Range: 9000.0 - 12000.0, Count: 12150
+Clan Points Range: 12000.0 - 15000.0, Count: 8460
+Clan Points Range: 15000.0 - 18000.0, Count: 6528
+Clan Points Range: 18000.0 - 21000.0, Count: 5489
+Clan Points Range: 21000.0 - 24000.0, Count: 4762
+Clan Points Range: 24000.0 - 27000.0, Count: 4359
+Clan Points Range: 27000.0 - 30000.0, Count: 3880
+Clan Points Range: 30000.0 - 33000.0, Count: 3552
+Clan Points Range: 33000.0 - 36000.0, Count: 3278
+Clan Points Range: 36000.0 - 39000.0, Count: 2903
+Clan Points Range: 39000.0 - 42000.0, Count: 2193
+Clan Points Range: 42000.0 - 45000.0, Count: 1321
+Clan Points Range: 45000.0 - 48000.0, Count: 562
+Clan Points Range: 48000.0 - 51000.0, Count: 186
+Clan Points Range: 51000.0 - 54000.0, Count: 24
+Clan Points Range: 54000.0 - 57000.0, Count: 2
+
+Results for Query 5: Top 5 Clans by Clan Points
+
+Top Clan: BD KiNg RiDeRS, Points: 54721
+Top Clan: BORNEO LORD, Points: 54417
+Top Clan: The Aerni Tribe, Points: 53101
+Top Clan: immortals, Points: 52703
+Top Clan: INVIDIA PkTr, Points: 52590
+
+Results for Query 6: Clan Builder Points Range
+
+Builder Points Range: 0.0 - 3000.0, Count: 710474
+Builder Points Range: 3000.0 - 6000.0, Count: 72268
+Builder Points Range: 6000.0 - 9000.0, Count: 28377
+Builder Points Range: 9000.0 - 12000.0, Count: 16231
+Builder Points Range: 12000.0 - 15000.0, Count: 11305
+Builder Points Range: 15000.0 - 18000.0, Count: 8756
+Builder Points Range: 18000.0 - 21000.0, Count: 7370
+Builder Points Range: 21000.0 - 24000.0, Count: 6623
+Builder Points Range: 24000.0 - 27000.0, Count: 6174
+Builder Points Range: 27000.0 - 30000.0, Count: 5231
+Builder Points Range: 30000.0 - 33000.0, Count: 4302
+Builder Points Range: 33000.0 - 36000.0, Count: 3628
+Builder Points Range: 36000.0 - 39000.0, Count: 2839
+Builder Points Range: 39000.0 - 42000.0, Count: 2037
+Builder Points Range: 42000.0 - 45000.0, Count: 914
+Builder Points Range: 45000.0 - 48000.0, Count: 205
+Builder Points Range: 48000.0 - 51000.0, Count: 8
+Builder Points Range: 51000.0 - 54000.0, Count: 1
+
+Results for Query 6: Top 5 Clans by Builder Points
+
+Top Clan: Sofaplex, Builder Points: 51686
+Top Clan: Rejects, Builder Points: 50500
+Top Clan: After Dark©, Builder Points: 48494
+Top Clan: ae la gia dinh, Builder Points: 48392
+Top Clan: The Aerni Tribe, Builder Points: 48353
+
+Results for Query 7: Required Trophies (Counts and Percentages)
+
+Required Trophies: 0, Count: 680236, Percentage: 64.9%
+Required Trophies: 100, Count: 38, Percentage: 0.0%
+Required Trophies: 200, Count: 85223, Percentage: 8.1%
+Required Trophies: 300, Count: 17, Percentage: 0.0%
+Required Trophies: 400, Count: 48062, Percentage: 4.6%
+Required Trophies: 500, Count: 11, Percentage: 0.0%
+Required Trophies: 600, Count: 38417, Percentage: 3.7%
+Required Trophies: 700, Count: 12, Percentage: 0.0%
+Required Trophies: 800, Count: 34971, Percentage: 3.3%
+Required Trophies: 900, Count: 5, Percentage: 0.0%
+Required Trophies: 1000, Count: 48846, Percentage: 4.7%
+Required Trophies: 1100, Count: 7440, Percentage: 0.7%
+Required Trophies: 1200, Count: 13647, Percentage: 1.3%
+Required Trophies: 1300, Count: 5069, Percentage: 0.5%
+Required Trophies: 1400, Count: 7221, Percentage: 0.7%
+Required Trophies: 1500, Count: 13803, Percentage: 1.3%
+Required Trophies: 1600, Count: 4356, Percentage: 0.4%
+Required Trophies: 1700, Count: 2467, Percentage: 0.2%
+Required Trophies: 1800, Count: 4026, Percentage: 0.4%
+Required Trophies: 1900, Count: 1310, Percentage: 0.1%
+Required Trophies: 2000, Count: 14045, Percentage: 1.3%
+Required Trophies: 2100, Count: 1221, Percentage: 0.1%
+Required Trophies: 2200, Count: 1751, Percentage: 0.2%
+Required Trophies: 2300, Count: 835, Percentage: 0.1%
+Required Trophies: 2400, Count: 1139, Percentage: 0.1%
+Required Trophies: 2500, Count: 3420, Percentage: 0.3%
+Required Trophies: 2600, Count: 1378, Percentage: 0.1%
+Required Trophies: 2700, Count: 544, Percentage: 0.1%
+Required Trophies: 2800, Count: 761, Percentage: 0.1%
+Required Trophies: 2900, Count: 318, Percentage: 0.0%
+Required Trophies: 3000, Count: 3743, Percentage: 0.4%
+Required Trophies: 3100, Count: 400, Percentage: 0.0%
+Required Trophies: 3200, Count: 937, Percentage: 0.1%
+Required Trophies: 3300, Count: 275, Percentage: 0.0%
+Required Trophies: 3400, Count: 300, Percentage: 0.0%
+Required Trophies: 3500, Count: 924, Percentage: 0.1%
+Required Trophies: 3600, Count: 390, Percentage: 0.0%
+Required Trophies: 3700, Count: 175, Percentage: 0.0%
+Required Trophies: 3800, Count: 287, Percentage: 0.0%
+Required Trophies: 3900, Count: 192, Percentage: 0.0%
+Required Trophies: 4000, Count: 1841, Percentage: 0.2%
+Required Trophies: 4100, Count: 463, Percentage: 0.0%
+Required Trophies: 4200, Count: 9168, Percentage: 0.9%
+Required Trophies: 4300, Count: 76, Percentage: 0.0%
+Required Trophies: 4400, Count: 87, Percentage: 0.0%
+Required Trophies: 4500, Count: 306, Percentage: 0.0%
+Required Trophies: 4600, Count: 78, Percentage: 0.0%
+Required Trophies: 4700, Count: 63, Percentage: 0.0%
+Required Trophies: 4800, Count: 114, Percentage: 0.0%
+Required Trophies: 4900, Count: 70, Percentage: 0.0%
+Required Trophies: 5000, Count: 767, Percentage: 0.1%
+Required Trophies: 5100, Count: 107, Percentage: 0.0%
+Required Trophies: 5200, Count: 136, Percentage: 0.0%
+Required Trophies: 5300, Count: 112, Percentage: 0.0%
+Required Trophies: 5400, Count: 236, Percentage: 0.0%
+Required Trophies: 5500, Count: 6684, Percentage: 0.6%
+
+Results for Query 8: War Frequency (Counts and Percentages)
+
+War Frequency: unknown, Count: 503461, Percentage: 48.0%
+War Frequency: always, Count: 404722, Percentage: 38.6%
+War Frequency: moreThanOncePerWeek, Count: 40281, Percentage: 3.8%
+War Frequency: oncePerWeek, Count: 37959, Percentage: 3.6%
+War Frequency: lessThanOncePerWeek, Count: 33640, Percentage: 3.2%
+War Frequency: never, Count: 28502, Percentage: 2.7%
+
+Results for Query 9: War Win Streak (Counts and Top 5 Clans)
+
+War Win Streak: 172, Count: 1
+War Win Streak: 154, Count: 1
+War Win Streak: 116, Count: 1
+War Win Streak: 107, Count: 1
+War Win Streak: 100, Count: 1
+War Win Streak: 87, Count: 1
+War Win Streak: 81, Count: 2
+War Win Streak: 78, Count: 1
+War Win Streak: 73, Count: 1
+War Win Streak: 68, Count: 1
+War Win Streak: 67, Count: 1
+War Win Streak: 65, Count: 1
+War Win Streak: 62, Count: 1
+War Win Streak: 60, Count: 1
+War Win Streak: 55, Count: 1
+War Win Streak: 54, Count: 1
+War Win Streak: 53, Count: 3
+War Win Streak: 52, Count: 1
+War Win Streak: 50, Count: 5
+War Win Streak: 48, Count: 2
+War Win Streak: 47, Count: 2
+War Win Streak: 46, Count: 4
+War Win Streak: 45, Count: 1
+War Win Streak: 43, Count: 4
+War Win Streak: 42, Count: 1
+War Win Streak: 41, Count: 1
+War Win Streak: 40, Count: 3
+War Win Streak: 39, Count: 1
+War Win Streak: 38, Count: 2
+War Win Streak: 37, Count: 1
+War Win Streak: 36, Count: 6
+War Win Streak: 35, Count: 3
+War Win Streak: 34, Count: 6
+War Win Streak: 33, Count: 4
+War Win Streak: 32, Count: 7
+War Win Streak: 31, Count: 3
+War Win Streak: 30, Count: 17
+War Win Streak: 29, Count: 2
+War Win Streak: 28, Count: 8
+War Win Streak: 27, Count: 9
+War Win Streak: 26, Count: 16
+War Win Streak: 25, Count: 14
+War Win Streak: 24, Count: 13
+War Win Streak: 23, Count: 7
+War Win Streak: 22, Count: 18
+War Win Streak: 21, Count: 23
+War Win Streak: 20, Count: 27
+War Win Streak: 19, Count: 27
+War Win Streak: 18, Count: 23
+War Win Streak: 17, Count: 37
+War Win Streak: 16, Count: 43
+War Win Streak: 15, Count: 72
+War Win Streak: 14, Count: 63
+War Win Streak: 13, Count: 90
+War Win Streak: 12, Count: 122
+War Win Streak: 11, Count: 184
+War Win Streak: 10, Count: 254
+War Win Streak: 9, Count: 361
+War Win Streak: 8, Count: 509
+War Win Streak: 7, Count: 750
+War Win Streak: 6, Count: 1354
+War Win Streak: 5, Count: 2612
+War Win Streak: 4, Count: 5196
+War Win Streak: 3, Count: 10496
+War Win Streak: 2, Count: 23633
+War Win Streak: 1, Count: 65934
+War Win Streak: 0, Count: 936574
+
+Top 5 Clans by War Win Streak:
+
+Top Clan: 5aab 1799, War Win Streak: 172
+Top Clan: Dry Stack, War Win Streak: 154
+Top Clan: OFSAYT, War Win Streak: 116
+Top Clan: |ddu's HideOut?, War Win Streak: 107
+Top Clan: cal of the dead, War Win Streak: 100
+
+Results for Query 10: War Wins (Range and Top 5 Clans)
+
+War Wins Range: 0.0 - 100.0, Count: 812150
+War Wins Range: 100.0 - 200.0, Count: 25481
+War Wins Range: 200.0 - 300.0, Count: 10469
+War Wins Range: 300.0 - 400.0, Count: 5125
+War Wins Range: 400.0 - 500.0, Count: 2679
+War Wins Range: 500.0 - 600.0, Count: 1559
+War Wins Range: 600.0 - 700.0, Count: 874
+War Wins Range: 700.0 - 800.0, Count: 389
+War Wins Range: 800.0 - 900.0, Count: 146
+War Wins Range: 900.0 - 1000.0, Count: 51
+War Wins Range: 1000.0 - 1100.0, Count: 17
+War Wins Range: 1100.0 - 1200.0, Count: 6
+War Wins Range: 1200.0 - 1300.0, Count: 2
+War Wins Range: 1300.0 - 1400.0, Count: 1
+
+Top 5 Clans by War Wins:
+Top Clan: gigante, War Wins: 1323
+Top Clan: Cabin Killers, War Wins: 1271
+Top Clan: Fusion Colombia, War Wins: 1252
+Top Clan: UKRAINE, War Wins: 1227
+Top Clan: Royal Flash, War Wins: 1196
+
+Results for Query 11: War Ties (Counts)
+
+War Ties: 0, Count: 967045
+War Ties: 1, Count: 43557
+War Ties: 2, Count: 13435
+War Ties: 3, Count: 6962
+War Ties: 4, Count: 4549
+War Ties: 5, Count: 3331
+War Ties: 6, Count: 2345
+War Ties: 7, Count: 1815
+War Ties: 8, Count: 1316
+War Ties: 9, Count: 975
+War Ties: 10, Count: 669
+War Ties: 11, Count: 473
+War Ties: 12, Count: 395
+War Ties: 13, Count: 273
+War Ties: 14, Count: 199
+War Ties: 15, Count: 174
+War Ties: 16, Count: 128
+War Ties: 17, Count: 100
+War Ties: 18, Count: 77
+War Ties: 19, Count: 91
+War Ties: 20, Count: 76
+War Ties: 21, Count: 59
+War Ties: 22, Count: 63
+War Ties: 23, Count: 48
+War Ties: 24, Count: 37
+War Ties: 25, Count: 33
+War Ties: 26, Count: 39
+War Ties: 27, Count: 24
+War Ties: 28, Count: 23
+War Ties: 29, Count: 17
+War Ties: 30, Count: 21
+War Ties: 31, Count: 21
+War Ties: 32, Count: 11
+War Ties: 33, Count: 20
+War Ties: 34, Count: 8
+War Ties: 35, Count: 12
+War Ties: 36, Count: 10
+War Ties: 37, Count: 12
+War Ties: 38, Count: 8
+War Ties: 39, Count: 10
+War Ties: 40, Count: 11
+War Ties: 41, Count: 8
+War Ties: 42, Count: 3
+War Ties: 43, Count: 8
+War Ties: 44, Count: 6
+War Ties: 45, Count: 6
+War Ties: 46, Count: 4
+War Ties: 47, Count: 6
+War Ties: 48, Count: 4
+War Ties: 49, Count: 5
+War Ties: 50, Count: 2
+War Ties: 51, Count: 2
+War Ties: 52, Count: 3
+War Ties: 53, Count: 1
+War Ties: 54, Count: 2
+War Ties: 55, Count: 3
+War Ties: 56, Count: 1
+War Ties: 57, Count: 1
+War Ties: 58, Count: 1
+War Ties: 59, Count: 1
+War Ties: 60, Count: 3
+War Ties: 63, Count: 1
+War Ties: 64, Count: 2
+War Ties: 66, Count: 2
+War Ties: 68, Count: 1
+War Ties: 70, Count: 1
+War Ties: 73, Count: 1
+War Ties: 75, Count: 1
+War Ties: 79, Count: 1
+War Ties: 81, Count: 1
+War Ties: 84, Count: 2
+War Ties: 89, Count: 1
+War Ties: 100, Count: 2
+War Ties: 102, Count: 1
+War Ties: 106, Count: 1
+War Ties: 110, Count: 1
+War Ties: 156, Count: 1
+War Ties: 175, Count: 1
+War Ties: 266, Count: 1
+War Ties: 294, Count: 1
+
+Results for Query 12: War Losses (Counts)
+
+War Losses: 0, Count: 640916
+War Losses: 1, Count: 58938
+War Losses: 2, Count: 41561
+War Losses: 3, Count: 31760
+War Losses: 4, Count: 25694
+War Losses: 5, Count: 20810
+War Losses: 6, Count: 17642
+War Losses: 7, Count: 14985
+War Losses: 8, Count: 12819
+War Losses: 9, Count: 11395
+War Losses: 10, Count: 10000
+War Losses: 11, Count: 8873
+War Losses: 12, Count: 7887
+War Losses: 13, Count: 6987
+War Losses: 14, Count: 6413
+War Losses: 15, Count: 5768
+and so on, decreasing as the losses increase
+
+Results for Query 13: Win Percentage Range (10% Bins) and Count of Clans with Specific Conditions
+
+Win Percentage Range: 0.0% - 10.0%, Count: 2674
+Win Percentage Range: 10.0% - 20.0%, Count: 8363
+Win Percentage Range: 20.0% - 30.0%, Count: 21071
+Win Percentage Range: 30.0% - 40.0%, Count: 39052
+Win Percentage Range: 40.0% - 50.0%, Count: 52765
+Win Percentage Range: 50.0% - 60.0%, Count: 57294
+Win Percentage Range: 60.0% - 70.0%, Count: 34929
+Win Percentage Range: 70.0% - 80.0%, Count: 13973
+Win Percentage Range: 80.0% - 90.0%, Count: 4258
+Win Percentage Range: 90% - 100%, Count: 58447
+
+Results for Query 14: Clan War League (Counts and Percentages) with Custom Order (Excluding Unranked)
+
+Clan War League: Bronze League III, Count: 1212, Percentage: 0.1%
+Clan War League: Bronze League II, Count: 2845, Percentage: 0.3%
+Clan War League: Bronze League I, Count: 8719, Percentage: 0.8%
+Clan War League: Silver League III, Count: 22192, Percentage: 2.1%
+Clan War League: Silver League II, Count: 23122, Percentage: 2.2%
+Clan War League: Silver League I, Count: 24806, Percentage: 2.4%
+Clan War League: Gold League III, Count: 21060, Percentage: 2.0%
+Clan War League: Gold League II, Count: 14655, Percentage: 1.4%
+Clan War League: Gold League I, Count: 10169, Percentage: 1.0%
+Clan War League: Crystal League III, Count: 7674, Percentage: 0.7%
+Clan War League: Crystal League II, Count: 6544, Percentage: 0.6%
+Clan War League: Crystal League I, Count: 6215, Percentage: 0.6%
+Clan War League: Master League III, Count: 3427, Percentage: 0.3%
+Clan War League: Master League II, Count: 1688, Percentage: 0.2%
+Clan War League: Master League I, Count: 882, Percentage: 0.1%
+Clan War League: Champion League III, Count: 421, Percentage: 0.0%
+Clan War League: Champion League II, Count: 192, Percentage: 0.0%
+Clan War League: Champion League I, Count: 162, Percentage: 0.0%
+
+Results for Query 15: Number of Members (Counts and Percentages)
+
+Number of Members: 0, Count: 3791, Percentage: 0.4%
+Number of Members: 1, Count: 423452, Percentage: 40.4%
+Number of Members: 2, Count: 219545, Percentage: 20.9%
+Number of Members: 3, Count: 105836, Percentage: 10.1%
+Number of Members: 4, Count: 59945, Percentage: 5.7%
+Number of Members: 5, Count: 44039, Percentage: 4.2%
+Number of Members: 6, Count: 29742, Percentage: 2.8%
+Number of Members: 7, Count: 21036, Percentage: 2.0%
+Number of Members: 8, Count: 15834, Percentage: 1.5%
+Number of Members: 9, Count: 12079, Percentage: 1.2%
+Number of Members: 10, Count: 10087, Percentage: 1.0%
+Number of Members: 11, Count: 7747, Percentage: 0.7%
+Number of Members: 12, Count: 6315, Percentage: 0.6%
+Number of Members: 13, Count: 5361, Percentage: 0.5%
+Number of Members: 14, Count: 4712, Percentage: 0.4%
+Number of Members: 15, Count: 4913, Percentage: 0.5%
+Number of Members: 16, Count: 4246, Percentage: 0.4%
+Number of Members: 17, Count: 3799, Percentage: 0.4%
+Number of Members: 18, Count: 3545, Percentage: 0.3%
+Number of Members: 19, Count: 3250, Percentage: 0.3%
+Number of Members: 20, Count: 3050, Percentage: 0.3%
+Number of Members: 21, Count: 2945, Percentage: 0.3%
+Number of Members: 22, Count: 2578, Percentage: 0.2%
+Number of Members: 23, Count: 2417, Percentage: 0.2%
+Number of Members: 24, Count: 2240, Percentage: 0.2%
+Number of Members: 25, Count: 2269, Percentage: 0.2%
+Number of Members: 26, Count: 2052, Percentage: 0.2%
+Number of Members: 27, Count: 1879, Percentage: 0.2%
+Number of Members: 28, Count: 1821, Percentage: 0.2%
+Number of Members: 29, Count: 1704, Percentage: 0.2%
+Number of Members: 30, Count: 1697, Percentage: 0.2%
+Number of Members: 31, Count: 1658, Percentage: 0.2%
+Number of Members: 32, Count: 1592, Percentage: 0.2%
+Number of Members: 33, Count: 1396, Percentage: 0.1%
+Number of Members: 34, Count: 1441, Percentage: 0.1%
+Number of Members: 35, Count: 1443, Percentage: 0.1%
+Number of Members: 36, Count: 1407, Percentage: 0.1%
+Number of Members: 37, Count: 1347, Percentage: 0.1%
+Number of Members: 38, Count: 1317, Percentage: 0.1%
+Number of Members: 39, Count: 1304, Percentage: 0.1%
+Number of Members: 40, Count: 1280, Percentage: 0.1%
+Number of Members: 41, Count: 1338, Percentage: 0.1%
+Number of Members: 42, Count: 1386, Percentage: 0.1%
+Number of Members: 43, Count: 1408, Percentage: 0.1%
+Number of Members: 44, Count: 1609, Percentage: 0.2%
+Number of Members: 45, Count: 1736, Percentage: 0.2%
+Number of Members: 46, Count: 2622, Percentage: 0.3%
+Number of Members: 47, Count: 2408, Percentage: 0.2%
+Number of Members: 48, Count: 3122, Percentage: 0.3%
+Number of Members: 49, Count: 2208, Percentage: 0.2%
+Number of Members: 50, Count: 2617, Percentage: 0.2%
+
+Results for Query 16: Requirements (Ordered by Required Builder Base Trophies)
+
+Requirements: 0, Count: 839570, Percentage: 80.1%
+Requirements: 200, Count: 53359, Percentage: 5.1%
+Requirements: 400, Count: 27227, Percentage: 2.6%
+Requirements: 600, Count: 20691, Percentage: 2.0%
+Requirements: 800, Count: 16198, Percentage: 1.5%
+Requirements: 1000, Count: 25515, Percentage: 2.4%
+Requirements: 1100, Count: 4302, Percentage: 0.4%
+Requirements: 1200, Count: 6263, Percentage: 0.6%
+Requirements: 1300, Count: 2595, Percentage: 0.2%
+Requirements: 1400, Count: 3003, Percentage: 0.3%
+Requirements: 1500, Count: 7563, Percentage: 0.7%
+Requirements: 1600, Count: 2150, Percentage: 0.2%
+Requirements: 1700, Count: 1324, Percentage: 0.1%
+Requirements: 1800, Count: 2061, Percentage: 0.2%
+Requirements: 1900, Count: 777, Percentage: 0.1%
+Requirements: 2000, Count: 7925, Percentage: 0.8%
+Requirements: 2100, Count: 838, Percentage: 0.1%
+Requirements: 2200, Count: 941, Percentage: 0.1%
+Requirements: 2300, Count: 529, Percentage: 0.1%
+Requirements: 2400, Count: 660, Percentage: 0.1%
+Requirements: 2500, Count: 1934, Percentage: 0.2%
+Requirements: 2600, Count: 625, Percentage: 0.1%
+Requirements: 2700, Count: 300, Percentage: 0.0%
+Requirements: 2800, Count: 395, Percentage: 0.0%
+Requirements: 2900, Count: 220, Percentage: 0.0%
+Requirements: 3000, Count: 2222, Percentage: 0.2%
+Requirements: 3100, Count: 266, Percentage: 0.0%
+Requirements: 3200, Count: 413, Percentage: 0.0%
+Requirements: 3300, Count: 176, Percentage: 0.0%
+Requirements: 3400, Count: 177, Percentage: 0.0%
+Requirements: 3500, Count: 503, Percentage: 0.0%
+Requirements: 3600, Count: 194, Percentage: 0.0%
+Requirements: 3700, Count: 130, Percentage: 0.0%
+Requirements: 3800, Count: 140, Percentage: 0.0%
+Requirements: 3900, Count: 124, Percentage: 0.0%
+Requirements: 4000, Count: 1172, Percentage: 0.1%
+Requirements: 4100, Count: 313, Percentage: 0.0%
+Requirements: 4200, Count: 7372, Percentage: 0.7%
+Requirements: 4300, Count: 52, Percentage: 0.0%
+Requirements: 4400, Count: 54, Percentage: 0.0%
+Requirements: 4500, Count: 164, Percentage: 0.0%
+Requirements: 4600, Count: 43, Percentage: 0.0%
+Requirements: 4700, Count: 31, Percentage: 0.0%
+Requirements: 4800, Count: 47, Percentage: 0.0%
+Requirements: 4900, Count: 43, Percentage: 0.0%
+Requirements: 5000, Count: 536, Percentage: 0.1%
+Requirements: 5100, Count: 78, Percentage: 0.0%
+Requirements: 5200, Count: 83, Percentage: 0.0%
+Requirements: 5300, Count: 80, Percentage: 0.0%
+Requirements: 5400, Count: 214, Percentage: 0.0%
+Requirements: 5500, Count: 6947, Percentage: 0.7%
+
+Results for Query 16: Required Townhall Level (Ordered by Townhall Level)
+
+Townhall Level: 1, Count: 809922, Percentage: 77.2%
+Townhall Level: 2, Count: 24103, Percentage: 2.3%
+Townhall Level: 3, Count: 40661, Percentage: 3.9%
+Townhall Level: 4, Count: 27370, Percentage: 2.6%
+Townhall Level: 5, Count: 29125, Percentage: 2.8%
+Townhall Level: 6, Count: 19144, Percentage: 1.8%
+Townhall Level: 7, Count: 21357, Percentage: 2.0%
+Townhall Level: 8, Count: 18539, Percentage: 1.8%
+Townhall Level: 9, Count: 15070, Percentage: 1.4%
+Townhall Level: 10, Count: 12807, Percentage: 1.2%
+Townhall Level: 11, Count: 7331, Percentage: 0.7%
+Townhall Level: 12, Count: 6708, Percentage: 0.6%
+Townhall Level: 13, Count: 6713, Percentage: 0.6%
+Townhall Level: 14, Count: 5414, Percentage: 0.5%
+Townhall Level: 15, Count: 4301, Percentage: 0.4%
+
+Results for Query 17: Clan Capital Hall Level (Counts and Percentages)
+
+Capital Hall Level: 0, Count: 845344, Percentage: 80.6%
+Capital Hall Level: 1, Count: 91403, Percentage: 8.7%
+Capital Hall Level: 2, Count: 29303, Percentage: 2.8%
+Capital Hall Level: 3, Count: 27137, Percentage: 2.6%
+Capital Hall Level: 4, Count: 10601, Percentage: 1.0%
+Capital Hall Level: 5, Count: 12066, Percentage: 1.2%
+Capital Hall Level: 6, Count: 6664, Percentage: 0.6%
+Capital Hall Level: 7, Count: 8994, Percentage: 0.9%
+Capital Hall Level: 8, Count: 4509, Percentage: 0.4%
+Capital Hall Level: 9, Count: 5063, Percentage: 0.5%
+Capital Hall Level: 10, Count: 7481, Percentage: 0.7%
+
+Results for Query 18: Clan Capital Points (Range and Top 5 Clans)
+
+Capital Points Range: 0.0 - 300.0, Count: 1000595
+Capital Points Range: 300.0 - 600.0, Count: 9526
+Capital Points Range: 600.0 - 900.0, Count: 7211
+Capital Points Range: 900.0 - 1200.0, Count: 6192
+Capital Points Range: 1200.0 - 1500.0, Count: 5446
+Capital Points Range: 1500.0 - 1800.0, Count: 4673
+Capital Points Range: 1800.0 - 2100.0, Count: 3813
+Capital Points Range: 2100.0 - 2400.0, Count: 3176
+Capital Points Range: 2400.0 - 2700.0, Count: 2334
+Capital Points Range: 2700.0 - 3000.0, Count: 1793
+Capital Points Range: 3000.0 - 3300.0, Count: 1291
+Capital Points Range: 3300.0 - 3600.0, Count: 964
+Capital Points Range: 3600.0 - 3900.0, Count: 588
+Capital Points Range: 3900.0 - 4200.0, Count: 435
+Capital Points Range: 4200.0 - 4500.0, Count: 236
+Capital Points Range: 4500.0 - 4800.0, Count: 150
+Capital Points Range: 4800.0 - 5100.0, Count: 90
+Capital Points Range: 5100.0 - 5400.0, Count: 44
+Capital Points Range: 5400.0 - 5700.0, Count: 8
+
+Top 5 Clans by Capital Points:
+Top Clan: War Snipers ⒉３, Capital Points: 5692
+Top Clan: FRIENDS 5467, Capital Points: 5606
+Top Clan: Nachterben, Capital Points: 5543
+Top Clan: VictoryMalaysia, Capital Points: 5511
+Top Clan: FBI, Capital Points: 5491
+
+Results for Query 19: Clan Capital League (Counts and Percentages)(excluding 'Unranked')
+
+Capital League: Bronze League III, Count: 7014, Percentage: 0.7%
+Capital League: Bronze League II, Count: 6094, Percentage: 0.6%
+Capital League: Bronze League I, Count: 4999, Percentage: 0.5%
+Capital League: Silver League III, Count: 4469, Percentage: 0.4%
+Capital League: Silver League II, Count: 3935, Percentage: 0.4%
+Capital League: Silver League I, Count: 3739, Percentage: 0.4%
+Capital League: Gold League III, Count: 3357, Percentage: 0.3%
+Capital League: Gold League II, Count: 3023, Percentage: 0.3%
+Capital League: Gold League I, Count: 2634, Percentage: 0.3%
+Capital League: Crystal League III, Count: 2375, Percentage: 0.2%
+Capital League: Crystal League II, Count: 1980, Percentage: 0.2%
+Capital League: Crystal League I, Count: 1609, Percentage: 0.2%
+Capital League: Master League III, Count: 1428, Percentage: 0.1%
+Capital League: Master League II, Count: 1090, Percentage: 0.1%
+Capital League: Master League I, Count: 899, Percentage: 0.1%
+Capital League: Champion League III, Count: 1077, Percentage: 0.1%
+Capital League: Champion League II, Count: 687, Percentage: 0.1%
+Capital League: Champion League I, Count: 500, Percentage: 0.0%
+Capital League: Titan League III, Count: 274, Percentage: 0.0%
+Capital League: Titan League II, Count: 185, Percentage: 0.0%
+Capital League: Titan League I, Count: 108, Percentage: 0.0%
+Capital League: Legend League, Count: 76, Percentage: 0.0%
+
+Results for Query 20: Mean Member Level (Range and Top 5 Clans)
+
+Mean Member Level: 1, Count: 37
+Mean Member Level: 2, Count: 95
+Mean Member Level: 3, Count: 203
+Mean Member Level: 4, Count: 284
+Mean Member Level: 5, Count: 335
+Mean Member Level: 6, Count: 324
+Mean Member Level: 7, Count: 430
+Mean Member Level: 8, Count: 681
+Mean Member Level: 9, Count: 922
+Mean Member Level: 10, Count: 1213
+Mean Member Level: 11, Count: 1459
+Mean Member Level: 12, Count: 1626
+Mean Member Level: 13, Count: 1822
+Mean Member Level: 14, Count: 1827
+Mean Member Level: 15, Count: 1936
+Mean Member Level: 16, Count: 2052
+Mean Member Level: 17, Count: 1979
+Mean Member Level: 18, Count: 2046
+Mean Member Level: 19, Count: 2077
+Mean Member Level: 20, Count: 2032
+Mean Member Level: 21, Count: 2004
+Mean Member Level: 22, Count: 2109
+Mean Member Level: 23, Count: 2182
+Mean Member Level: 24, Count: 2114
+Mean Member Level: 25, Count: 2041
+Mean Member Level: 26, Count: 2103
+Mean Member Level: 27, Count: 2127
+Mean Member Level: 28, Count: 2106
+Mean Member Level: 29, Count: 2070
+Mean Member Level: 30, Count: 2067
+Mean Member Level: 31, Count: 2171
+Mean Member Level: 32, Count: 2067
+Mean Member Level: 33, Count: 2088
+Mean Member Level: 34, Count: 2149
+Mean Member Level: 35, Count: 2146
+Mean Member Level: 36, Count: 2074
+Mean Member Level: 37, Count: 2084
+Mean Member Level: 38, Count: 2117
+Mean Member Level: 39, Count: 2040
+Mean Member Level: 40, Count: 2126
+Mean Member Level: 41, Count: 2020
+Mean Member Level: 42, Count: 2013
+Mean Member Level: 43, Count: 1951
+Mean Member Level: 44, Count: 1973
+Mean Member Level: 45, Count: 2021
+Mean Member Level: 46, Count: 2123
+Mean Member Level: 47, Count: 1950
+Mean Member Level: 48, Count: 2034
+Mean Member Level: 49, Count: 1923
+Mean Member Level: 50, Count: 1982
+decreasing as its go on
+
+Top 5 Clans by Mean Member Level:
+
+Top Clan: AKVARYUM, Mean Member Level: 261
+Top Clan: drunkard, Mean Member Level: 261
+Top Clan: Kayau Iban, Mean Member Level: 260
+Top Clan: Game Over, Mean Member Level: 260
+Top Clan: GALATASARAY, Mean Member Level: 259
+
+Results for Query 21: Mean Member Trophies (Range and Top 5 Clans)
+
+Mean Member Trophies Range: 0.0 - 300.0, Count: 4485
+Mean Member Trophies Range: 300.0 - 600.0, Count: 29330
+Mean Member Trophies Range: 600.0 - 900.0, Count: 47077
+Mean Member Trophies Range: 900.0 - 1200.0, Count: 48518
+Mean Member Trophies Range: 1200.0 - 1500.0, Count: 36842
+Mean Member Trophies Range: 1500.0 - 1800.0, Count: 23502
+Mean Member Trophies Range: 1800.0 - 2100.0, Count: 14435
+Mean Member Trophies Range: 2100.0 - 2400.0, Count: 9147
+Mean Member Trophies Range: 2400.0 - 2700.0, Count: 6649
+Mean Member Trophies Range: 2700.0 - 3000.0, Count: 5168
+Mean Member Trophies Range: 3000.0 - 3300.0, Count: 4146
+Mean Member Trophies Range: 3300.0 - 3600.0, Count: 2917
+Mean Member Trophies Range: 3600.0 - 3900.0, Count: 1847
+Mean Member Trophies Range: 3900.0 - 4200.0, Count: 1016
+Mean Member Trophies Range: 4200.0 - 4500.0, Count: 534
+Mean Member Trophies Range: 4500.0 - 4800.0, Count: 256
+Mean Member Trophies Range: 4800.0 - 5100.0, Count: 94
+Mean Member Trophies Range: 5100.0 - 5400.0, Count: 32
+Mean Member Trophies Range: 5400.0 - 5700.0, Count: 1
+
+Top 5 Clans by Mean Member Trophies:
+Top Clan: BD KiNg RiDeRS, Mean Member Trophies: 5466
+Top Clan: BALANTY STEMPAS, Mean Member Trophies: 5328
+Top Clan: ENYGMA, Mean Member Trophies: 5322
+Top Clan: BORNEO LORD, Mean Member Trophies: 5320
+Top Clan: Buenagente clan, Mean Member Trophies: 5305
